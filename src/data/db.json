@@ -1,0 +1,32 @@
+{
+  "productos": [
+    {
+      "nombre": "Keratina",
+      "id": 1,
+      "precio": 220.0,
+      "descuento": "20%",
+      "categoria": "Capilares"
+    },
+    {
+      "id": 2,
+      "nombre": "Maquillaje",
+      "precio": 160.0,
+      "descuento": "30%",
+      "categoria": "Faciales"
+    },
+    {
+      "id": 3,
+      "nombre": "Manos y pies",
+      "precio": 70.0,
+      "descuento": "30%",
+      "categoria": "Corporales"
+    },
+    {
+      "id": 4,
+      "nombre": "Limpieza Facial",
+      "precio": 80.0,
+      "descuento": "20%",
+      "categoria": "Delser"
+    }
+  ]
+}
